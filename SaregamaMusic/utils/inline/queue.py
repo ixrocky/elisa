@@ -87,8 +87,8 @@ def aq_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="• ᴇʟɪsᴀ ʙᴏᴛ •",
-                url=f"https://t.me/elisamusicbot?start=_tgr_tdK1mFphZDA1"
+                text="• ᴧᴅᴅ ϻє •",
+                url=f"https://t.me/elisamusicbot?startgroup=true"
             ),
             InlineKeyboardButton(
                 text="• sᴀɴᴠɪ ʙᴏᴛ •",
